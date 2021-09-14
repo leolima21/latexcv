@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1630354474 "/home/leo/Desktop/docs/latexcv/modern/main.tex" "/home/leo/Desktop/docs/latexcv/modern/main.pdf" "main" 1630354475
+["pdflatex"] 1631647208 "/home/leo/Desktop/docs/latexcv/modern/main.tex" "/home/leo/Desktop/docs/latexcv/modern/main.pdf" "main" 1631647208
   "/etc/texmf/web2c/texmf.cnf" 1622310050 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/leo/Desktop/docs/latexcv/modern/main.aux" 1630354475 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/home/leo/Desktop/docs/latexcv/modern/main.tex" 1630354474 14983 9a473b9c9448f5d0444817dda366ff27 ""
+  "/home/leo/Desktop/docs/latexcv/modern/main.aux" 1631647208 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/home/leo/Desktop/docs/latexcv/modern/main.tex" 1631647208 14962 5851c50107d338e0a73285dd5c39f417 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_bzmckq.enc" 1407086865 2956 e1fccf4917ff205596489dab079ad56f ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/raleway/a_yqxcf3.enc" 1407086865 3099 96ea04418bfcf989c5380b59031fa39d ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -152,11 +152,11 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1622310091 4770781 1ed1abab22da9c3e2cc82e4db562318b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1622310100 8256481 ae708651ecb746315c645aa225ec8be9 ""
   "leoavatar.png" 1630352879 61531 49b08aca81d1de0b19969291ce815853 ""
-  "main.aux" 1630354475 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "main.tex" 1630354474 14983 9a473b9c9448f5d0444817dda366ff27 ""
+  "main.aux" 1631647208 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "main.tex" 1631647208 14962 5851c50107d338e0a73285dd5c39f417 ""
   (generated)
-  "main.pdf"
-  "/home/leo/Desktop/docs/latexcv/modern/main.log"
-  "/home/leo/Desktop/docs/latexcv/modern/main.pdf"
   "main.aux"
+  "/home/leo/Desktop/docs/latexcv/modern/main.pdf"
+  "/home/leo/Desktop/docs/latexcv/modern/main.log"
+  "main.pdf"
   "main.log"
